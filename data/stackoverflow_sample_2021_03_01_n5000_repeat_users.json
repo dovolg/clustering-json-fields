@@ -1,0 +1,4204 @@
+[
+  {
+    "title": "iOS Metal how to compute standard deviation in kernel function?",
+    "tags": [
+      "math",
+      "statistics",
+      "metal",
+      "ios14"
+    ],
+    "user_id": 967484,
+    "creation_date": "2021-03-01T00:00:53.257",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to return Joined Tables as Strongly Typed Records in Dapper with F#",
+    "tags": [
+      "f#",
+      "dapper"
+    ],
+    "user_id": 4537346,
+    "creation_date": "2021-03-01T00:08:07.380",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Message Specific PFP. (like TupperBox)",
+    "tags": [
+      "javascript",
+      "discord.js"
+    ],
+    "user_id": 15033012,
+    "creation_date": "2021-03-01T00:20:29.877",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Android Cmake 3.18.1 configuration",
+    "tags": [
+      "android",
+      "android-studio",
+      "boost",
+      "cmake",
+      "build.gradle"
+    ],
+    "user_id": 1756939,
+    "creation_date": "2021-03-01T00:23:07.027",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "PasswordResetConfirmView's PASSWORD_RESET_TIMEOUT Message if expired",
+    "tags": [
+      "django"
+    ],
+    "user_id": 7434025,
+    "creation_date": "2021-03-01T00:25:15.080",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to merge and get the count of non-matching entries efficiently?",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "pandas-groupby",
+      "series"
+    ],
+    "user_id": 10829044,
+    "creation_date": "2021-03-01T00:34:41.720",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Having a hard time trying to use Retrofit",
+    "tags": [
+      "java",
+      "json",
+      "retrofit"
+    ],
+    "user_id": 15000487,
+    "creation_date": "2021-03-01T00:38:33.293",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How Do I Trigger An Off Ledger Action After A Corda Transaction Is Complete?",
+    "tags": [
+      "corda"
+    ],
+    "user_id": 1000011,
+    "creation_date": "2021-03-01T00:47:33.630",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Pandas advanced groupby and filter by date",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe",
+      "data-manipulation"
+    ],
+    "user_id": 5283160,
+    "creation_date": "2021-03-01T00:49:10.087",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to convert a text file to a dictionary in python?",
+    "tags": [
+      "python-3.7"
+    ],
+    "user_id": 15287819,
+    "creation_date": "2021-03-01T00:55:55.540",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How Do I Copy Corda Production Env To Dev For Debugging?",
+    "tags": [
+      "corda"
+    ],
+    "user_id": 1000011,
+    "creation_date": "2021-03-01T01:00:25.613",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Using Map in Open Binary",
+    "tags": [
+      "python-3.x"
+    ],
+    "user_id": 7388149,
+    "creation_date": "2021-03-01T01:00:15.567",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "QAudioOutput not playing sound",
+    "tags": [
+      "python",
+      "pyside2"
+    ],
+    "user_id": 2489314,
+    "creation_date": "2021-03-01T01:00:11.183",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Concatenate arrays of coordinates in Python",
+    "tags": [
+      "python",
+      "arrays",
+      "numpy",
+      "concatenation"
+    ],
+    "user_id": 15298832,
+    "creation_date": "2021-03-01T01:01:00.503",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calculate 7 day average in r",
+    "tags": [
+      "r"
+    ],
+    "user_id": 15158968,
+    "creation_date": "2021-03-01T01:08:10.857",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Create a Controller",
+    "tags": [
+      "c#",
+      "asp.net",
+      "reactjs",
+      "controller",
+      "graphql"
+    ],
+    "user_id": 15303843,
+    "creation_date": "2021-03-01T01:16:28.740",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to find the largest and the second largest in a array",
+    "tags": [
+      "c++",
+      "arrays"
+    ],
+    "user_id": 15271447,
+    "creation_date": "2021-03-01T01:35:26.390",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Get all KeyPaths for an Object",
+    "tags": [
+      "swift",
+      "reflection",
+      "swift5",
+      "mirror",
+      "keypaths"
+    ],
+    "user_id": 1223595,
+    "creation_date": "2021-03-01T01:38:31.887",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Postgres won't start after reboot on Linux",
+    "tags": [
+      "postgresql"
+    ],
+    "user_id": 612258,
+    "creation_date": "2021-03-01T01:41:30.840",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python function loop through each list value and insert into string",
+    "tags": [
+      "python",
+      "string",
+      "function",
+      "for-loop"
+    ],
+    "user_id": 12291628,
+    "creation_date": "2021-03-01T01:46:33.447",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Segmentation fault when file is not found even if I try to create it in C",
+    "tags": [
+      "c",
+      "file",
+      "segmentation-fault",
+      "fopen",
+      "argv"
+    ],
+    "user_id": 12769096,
+    "creation_date": "2021-03-01T02:01:35.003",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to replace a a <p> element only with CSS (other methods won't work)",
+    "tags": [
+      "css"
+    ],
+    "user_id": 4621507,
+    "creation_date": "2021-03-01T02:02:43.173",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why can't I read and extract this HTTP header while performing a GET XmlHttpRequest?",
+    "tags": [
+      "javascript"
+    ],
+    "user_id": 6841481,
+    "creation_date": "2021-03-01T02:10:36.030",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Combining 3 Tables and Finding Average Age in SQL",
+    "tags": [
+      "sql",
+      "union",
+      "hue"
+    ],
+    "user_id": 14442258,
+    "creation_date": "2021-03-01T02:16:37.797",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ANDROID SDK is not found after installed android studio",
+    "tags": [
+      "android",
+      "android-studio",
+      "android-sdk-manager"
+    ],
+    "user_id": 14916477,
+    "creation_date": "2021-03-01T02:29:58.080",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Angular angular-auth-oidc-client identity4 SLO SSO Logout from all clients not working",
+    "tags": [
+      "angular",
+      "single-sign-on",
+      "openid-connect",
+      "single-logout",
+      "angular-auth-oidc-client"
+    ],
+    "user_id": 4634961,
+    "creation_date": "2021-03-01T02:50:41.773",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Processing signal from QAudioProbe",
+    "tags": [
+      "python",
+      "qt",
+      "qt5",
+      "pyside",
+      "pyside2"
+    ],
+    "user_id": 2489314,
+    "creation_date": "2021-03-01T02:53:09.210",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Query in a DataFrame with column names with spaces",
+    "tags": [
+      "dataframe",
+      "julia"
+    ],
+    "user_id": 12213858,
+    "creation_date": "2021-03-01T03:00:59.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Best way: how to export dynamodb table to a csv and store it in s3",
+    "tags": [
+      "node.js",
+      "amazon-web-services",
+      "aws-lambda",
+      "amazon-dynamodb"
+    ],
+    "user_id": 2463570,
+    "creation_date": "2021-03-01T03:05:25.100",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Pre-Processing Images for Pre-Trained Models in Tensorflow.js",
+    "tags": [
+      "javascript",
+      "python",
+      "tensorflow",
+      "keras",
+      "tensorflow.js"
+    ],
+    "user_id": 15303125,
+    "creation_date": "2021-03-01T03:19:34.543",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "iOS Metal \"The pixel format of the texture is incompatible with the data type\"",
+    "tags": [
+      "ios",
+      "metal",
+      "pixelformat"
+    ],
+    "user_id": 967484,
+    "creation_date": "2021-03-01T03:26:53.967",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Save Dashboards to a physical folder in Grafana",
+    "tags": [
+      "grafana"
+    ],
+    "user_id": 810358,
+    "creation_date": "2021-03-01T03:35:04.543",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I extract a custom HTTP POST request header in JavaScript for it to be transmitted in another POST request?",
+    "tags": [
+      "javascript"
+    ],
+    "user_id": 6841481,
+    "creation_date": "2021-03-01T03:43:20.770",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to convert a Tuple{Array{Float64,1},Array{Float64,1}} to Array{Tuple{Float64,Float64},1} in julia",
+    "tags": [
+      "tuples",
+      "julia"
+    ],
+    "user_id": 14847557,
+    "creation_date": "2021-03-01T03:49:13.853",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Convert array of objects to another structured array of objects",
+    "tags": [
+      "javascript",
+      "reactjs"
+    ],
+    "user_id": 11082350,
+    "creation_date": "2021-03-01T03:40:57.030",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Conversion from nvarchar to varbinary(max)",
+    "tags": [
+      "c#",
+      "sql",
+      "asp.net",
+      "sql-server"
+    ],
+    "user_id": 13804873,
+    "creation_date": "2021-03-01T03:51:18.517",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to merge duplicate array?",
+    "tags": [
+      "javascript",
+      "arrays",
+      "reactjs"
+    ],
+    "user_id": 14749338,
+    "creation_date": "2021-03-01T03:55:35.790",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Blazor EditForm start with Submit button disabled",
+    "tags": [
+      "blazor"
+    ],
+    "user_id": 3656651,
+    "creation_date": "2021-03-01T03:57:30.837",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Append a text to a beginning of a file in C does not work",
+    "tags": [
+      "c",
+      "file",
+      "text",
+      "append",
+      "prepend"
+    ],
+    "user_id": 12769096,
+    "creation_date": "2021-03-01T04:10:11.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I create a Material UI Autocomplete component to work with graphql queries?",
+    "tags": [
+      "reactjs",
+      "typescript",
+      "autocomplete",
+      "graphql",
+      "material-ui"
+    ],
+    "user_id": 6519391,
+    "creation_date": "2021-03-01T04:13:26.597",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "No overload matches this call Error while using css-in-js in Typescript, Webpack, React Project",
+    "tags": [
+      "css",
+      "reactjs",
+      "typescript",
+      "webpack"
+    ],
+    "user_id": 10407808,
+    "creation_date": "2021-03-01T04:15:33.930",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "merge rows in one column based on second column pandas",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 15207648,
+    "creation_date": "2021-03-01T04:17:00.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Network Load Balancer Listeners and VPC connection relationship",
+    "tags": [
+      "amazon-web-services",
+      "amazon-elb"
+    ],
+    "user_id": 4033292,
+    "creation_date": "2021-03-01T04:20:22.917",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can a Firebase onCall function perform retries?",
+    "tags": [
+      "firebase",
+      "google-cloud-functions"
+    ],
+    "user_id": 11815310,
+    "creation_date": "2021-03-01T04:27:42.977",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Unable to get related Table Records as Lists in F# Dapper",
+    "tags": [
+      "f#",
+      "f#-data"
+    ],
+    "user_id": 4537346,
+    "creation_date": "2021-03-01T04:41:09.417",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Main difference between the two different types of VPC links in AWS",
+    "tags": [
+      "amazon-web-services",
+      "aws-api-gateway",
+      "amazon-vpc"
+    ],
+    "user_id": 4033292,
+    "creation_date": "2021-03-01T04:45:29.480",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to install appium thru npm at offline machine",
+    "tags": [
+      "npm",
+      "appium",
+      "npm-install"
+    ],
+    "user_id": 14916477,
+    "creation_date": "2021-03-01T04:46:01.923",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Generating compact scientific notation with ggplot2 on R",
+    "tags": [
+      "r",
+      "ggplot2",
+      "axis-labels"
+    ],
+    "user_id": 15221997,
+    "creation_date": "2021-03-01T04:46:23.220",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to use a nested dictionary for breadth-first search?",
+    "tags": [
+      "artificial-intelligence",
+      "python-3.7"
+    ],
+    "user_id": 15287819,
+    "creation_date": "2021-03-01T04:49:54.623",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Prisma, Next JS api route prisma.create giving me a bad request",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "next.js",
+      "prisma"
+    ],
+    "user_id": 2949184,
+    "creation_date": "2021-03-01T04:53:20.520",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "let cons used both concretely and abstractly",
+    "tags": [
+      "haskell",
+      "let"
+    ],
+    "user_id": 2394634,
+    "creation_date": "2021-03-01T05:04:07.370",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Blazor InputRadio",
+    "tags": [
+      "blazor",
+      "radio-group"
+    ],
+    "user_id": 3656651,
+    "creation_date": "2021-03-01T05:12:42.393",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Is it always safe to use eventId as the Firestore document id?",
+    "tags": [
+      "firebase",
+      "google-cloud-functions"
+    ],
+    "user_id": 11815310,
+    "creation_date": "2021-03-01T05:31:40.757",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to find a breakdown of db size to identify the high space consumer - postgresql",
+    "tags": [
+      "sql",
+      "postgresql"
+    ],
+    "user_id": 10829044,
+    "creation_date": "2021-03-01T05:29:08.773",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Reading QAudioProbe buffer",
+    "tags": [
+      "python",
+      "qt",
+      "qt5",
+      "pyside",
+      "pyside2"
+    ],
+    "user_id": 2489314,
+    "creation_date": "2021-03-01T05:33:02.260",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Pre-processing images with convolutional layers in Tensorflow.js",
+    "tags": [
+      "machine-learning",
+      "keras",
+      "tensorflow.js"
+    ],
+    "user_id": 15303125,
+    "creation_date": "2021-03-01T05:38:44.490",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to prevent discord bot to send message automatically?",
+    "tags": [
+      "discord",
+      "discord.js"
+    ],
+    "user_id": 6132737,
+    "creation_date": "2021-03-01T05:43:27.297",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "aws kinesis put_record issue",
+    "tags": [
+      "amazon-web-services",
+      "aws-cli",
+      "amazon-kinesis"
+    ],
+    "user_id": 13615987,
+    "creation_date": "2021-03-01T05:45:02.870",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Clarification: How can I deploy my app in cloudbees (react-native app) using fastlane (Need steps for fastlane cloudbees setup)",
+    "tags": [
+      "android",
+      "ios",
+      "deployment",
+      "fastlane",
+      "cloudbees"
+    ],
+    "user_id": 8936551,
+    "creation_date": "2021-03-01T05:49:45.280",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why in this example did they wrap the response in another Promise.all?",
+    "tags": [
+      "javascript",
+      "promise"
+    ],
+    "user_id": 13895633,
+    "creation_date": "2021-03-01T05:55:21.363",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to make a socket server run forever without closed itself (Python)",
+    "tags": [
+      "python",
+      "loops",
+      "sockets"
+    ],
+    "user_id": 15074391,
+    "creation_date": "2021-03-01T05:57:16.970",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "sort the object of the Array the specific key value",
+    "tags": [
+      "javascript",
+      "arrays",
+      "reactjs",
+      "object"
+    ],
+    "user_id": 14864048,
+    "creation_date": "2021-03-01T05:59:34.073",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Error while invoking javascript chaincode",
+    "tags": [
+      "hyperledger-fabric"
+    ],
+    "user_id": 14842966,
+    "creation_date": "2021-03-01T06:05:30.117",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "jquery val() doesn't change value",
+    "tags": [
+      "javascript",
+      "jquery"
+    ],
+    "user_id": 4759176,
+    "creation_date": "2021-03-01T06:08:36.270",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to cancel all cron job?",
+    "tags": [
+      "node.js",
+      "cron"
+    ],
+    "user_id": 6132737,
+    "creation_date": "2021-03-01T06:17:53.647",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Tensorflow gpu error: Dst tensor not initialized",
+    "tags": [
+      "tensorflow",
+      "gpu"
+    ],
+    "user_id": 6417733,
+    "creation_date": "2021-03-01T06:19:16.317",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "WebExtension onBeforeReuest is not trigger for request from fetch API",
+    "tags": [
+      "javascript",
+      "fetch",
+      "firefox-addon-webextensions",
+      "chrome-webrequest"
+    ],
+    "user_id": 11306028,
+    "creation_date": "2021-03-01T06:20:31.387",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "NextJS: Vanilla JavaScript, Possible or not?",
+    "tags": [
+      "javascript",
+      "next.js",
+      "nextjs-image"
+    ],
+    "user_id": 14806798,
+    "creation_date": "2021-03-01T06:22:14.820",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Antd Timepicker set defaultValue from variable",
+    "tags": [
+      "reactjs",
+      "momentjs",
+      "antd"
+    ],
+    "user_id": 11082350,
+    "creation_date": "2021-03-01T06:25:29.453",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Issue with accessing array outside loop in Java",
+    "tags": [
+      "java",
+      "arrays",
+      "parsing"
+    ],
+    "user_id": 12499664,
+    "creation_date": "2021-03-01T06:24:24.573",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to replace using regex?",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "regex",
+      "replace"
+    ],
+    "user_id": 14749338,
+    "creation_date": "2021-03-01T06:29:00.167",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "3D surface plot in julia",
+    "tags": [
+      "julia",
+      "plots.jl"
+    ],
+    "user_id": 14847557,
+    "creation_date": "2021-03-01T06:43:15.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "WSO2 API Manager 2.6.0 How can Category and Group API In Publisher",
+    "tags": [
+      "wso2",
+      "store",
+      "publisher",
+      "ibm-api-management"
+    ],
+    "user_id": 13798444,
+    "creation_date": "2021-03-01T06:56:02.320",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to use for loop inside a capacitated vehicle routing problem (Google OR tools)",
+    "tags": [
+      "python",
+      "loops",
+      "or-tools",
+      "vehicle-routing"
+    ],
+    "user_id": 15037705,
+    "creation_date": "2021-03-01T07:04:39.680",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Server Error Error: Invalid hook call. Hooks can only be called inside of the body of a function component in _app.js",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "next.js"
+    ],
+    "user_id": 6769934,
+    "creation_date": "2021-03-01T07:19:12.523",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to filter pandas dataframe on different conditions",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 5283160,
+    "creation_date": "2021-03-01T07:23:49.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "What is \"better\" : (x=x) or (void(x)) for unused parameters?",
+    "tags": [
+      "c",
+      "performance",
+      "variables",
+      "memory",
+      "void"
+    ],
+    "user_id": 12769096,
+    "creation_date": "2021-03-01T07:31:18.377",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "TypeError not all arguments converted during in Python-mySql",
+    "tags": [
+      "python",
+      "mysql-python"
+    ],
+    "user_id": 11245009,
+    "creation_date": "2021-03-01T07:34:11.417",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Where do I find my Subscribers in Bigcommerce?",
+    "tags": [
+      "bigcommerce"
+    ],
+    "user_id": 4928280,
+    "creation_date": "2021-03-01T07:42:52.087",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Snowflake how can we loop over each row of a temp table and insert its values with into another table where each field with its value is a single row?",
+    "tags": [
+      "sql",
+      "optimization",
+      "snowflake-cloud-data-platform",
+      "data-vault"
+    ],
+    "user_id": 3922727,
+    "creation_date": "2021-03-01T07:41:58.863",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "WSO2 api manager 2.6.0 Group API in Store How can have picture for thumbnail?",
+    "tags": [
+      "wso2",
+      "store",
+      "ibm-api-management"
+    ],
+    "user_id": 13798444,
+    "creation_date": "2021-03-01T07:44:47.677",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "pd dataframe from lists and dictionary using series",
+    "tags": [
+      "python-3.x",
+      "pandas",
+      "list",
+      "dataframe",
+      "dictionary"
+    ],
+    "user_id": 15158693,
+    "creation_date": "2021-03-01T07:44:14.830",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "CNN model for deployment: how to optimize",
+    "tags": [
+      "tensorflow",
+      "optimization",
+      "conv-neural-network"
+    ],
+    "user_id": 6417733,
+    "creation_date": "2021-03-01T07:50:44.573",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Pulling blog data on any page in Bigcommerce",
+    "tags": [
+      "bigcommerce"
+    ],
+    "user_id": 4928280,
+    "creation_date": "2021-03-01T07:53:41.260",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "how to return value from while loop in c++?",
+    "tags": [
+      "c++",
+      "c++11",
+      "while-loop"
+    ],
+    "user_id": 15305274,
+    "creation_date": "2021-03-01T07:58:16.083",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do you input/store URLs in custom theme settings in Bigcommerce?",
+    "tags": [
+      "bigcommerce"
+    ],
+    "user_id": 4928280,
+    "creation_date": "2021-03-01T07:58:58.937",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Radio Button checked as default remains on true",
+    "tags": [
+      "javascript",
+      "jquery",
+      "radio-button"
+    ],
+    "user_id": 7434025,
+    "creation_date": "2021-03-01T07:58:35.390",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "HTTP long poll client",
+    "tags": [
+      "http",
+      "go",
+      "httpclient",
+      "long-polling"
+    ],
+    "user_id": 7205625,
+    "creation_date": "2021-03-01T08:04:02.620",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to start a node express application in a different host than localhost",
+    "tags": [
+      "node.js",
+      "express",
+      "networking",
+      "cloud",
+      "host"
+    ],
+    "user_id": 7205625,
+    "creation_date": "2021-03-01T08:13:09.200",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Snowflake how to transform a select query result and save it into an array of object?",
+    "tags": [
+      "sql",
+      "stored-procedures",
+      "snowflake-cloud-data-platform"
+    ],
+    "user_id": 3922727,
+    "creation_date": "2021-03-01T08:16:10.863",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Understanding D3 data join using the new syntax - Array data is update but DOM not",
+    "tags": [
+      "javascript",
+      "d3.js"
+    ],
+    "user_id": 13415477,
+    "creation_date": "2021-03-01T08:16:16.440",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to update Data in MongoDB when checked body is selected",
+    "tags": [
+      "javascript",
+      "node.js",
+      "mongodb",
+      "backend"
+    ],
+    "user_id": 13218411,
+    "creation_date": "2021-03-01T08:18:19.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I have a CSS and I want it to be aligned in-line",
+    "tags": [
+      "css",
+      "reactjs",
+      "jsx"
+    ],
+    "user_id": 14383678,
+    "creation_date": "2021-03-01T08:20:32.003",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to call submit.prevent on child component",
+    "tags": [
+      "vue.js",
+      "data-binding",
+      "vuejs2",
+      "vue-component"
+    ],
+    "user_id": 3005550,
+    "creation_date": "2021-03-01T08:26:12.427",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Translating SQL into LinQ SYntax",
+    "tags": [
+      "c#",
+      "entity-framework",
+      "linq"
+    ],
+    "user_id": 15048815,
+    "creation_date": "2021-03-01T08:27:39.817",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to loop an object in React",
+    "tags": [
+      "javascript",
+      "reactjs"
+    ],
+    "user_id": 14232549,
+    "creation_date": "2021-03-01T08:29:33.853",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I set the Source property of a FFImageLoading.SvgCachedImage from a Dynamic Resource in a Xamarin C# view?",
+    "tags": [
+      "xamarin",
+      "xamarin.forms"
+    ],
+    "user_id": 10175561,
+    "creation_date": "2021-03-01T08:33:21.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to add parent class attributes to sub class",
+    "tags": [
+      "java",
+      "oop"
+    ],
+    "user_id": 15302908,
+    "creation_date": "2021-03-01T08:33:37.387",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Prometheus operator AlertmanagerConfig unknown field \"webhook_configs\"",
+    "tags": [
+      "kubernetes",
+      "prometheus-alertmanager",
+      "prometheus-operator"
+    ],
+    "user_id": 625521,
+    "creation_date": "2021-03-01T08:35:42.503",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "AWS Cost explorer: what entity is actually causing the costs?",
+    "tags": [
+      "amazon-web-services"
+    ],
+    "user_id": 10738638,
+    "creation_date": "2021-03-01T08:38:12.530",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Unable to stop the test, @events.test_stop.add_listener locust",
+    "tags": [
+      "python",
+      "load-testing",
+      "locust"
+    ],
+    "user_id": 4252313,
+    "creation_date": "2021-03-01T08:38:02.227",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "What is wrong in below .Zip method",
+    "tags": [
+      "c#"
+    ],
+    "user_id": 15175378,
+    "creation_date": "2021-03-01T08:42:55.233",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to use worker with locust command",
+    "tags": [
+      "python",
+      "load-testing",
+      "locust"
+    ],
+    "user_id": 4252313,
+    "creation_date": "2021-03-01T08:44:40.930",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Pass graphql variable to the Material UI component",
+    "tags": [
+      "reactjs",
+      "graphql",
+      "material-ui",
+      "apollo"
+    ],
+    "user_id": 6519391,
+    "creation_date": "2021-03-01T08:45:21.733",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do i populate tkinter drop-down box with new data everytime i pressed \"refresh\"?",
+    "tags": [
+      "python",
+      "sql",
+      "database",
+      "tkinter",
+      "refresh"
+    ],
+    "user_id": 15074391,
+    "creation_date": "2021-03-01T08:45:24.590",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "return $request->input() is returning nothing on laravel",
+    "tags": [
+      "php",
+      "laravel"
+    ],
+    "user_id": 15212488,
+    "creation_date": "2021-03-01T08:48:00.877",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Using wget from a Python script",
+    "tags": [
+      "python",
+      "python-3.x",
+      "wget"
+    ],
+    "user_id": 11245009,
+    "creation_date": "2021-03-01T08:47:08.633",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to import data from CSV to HTML",
+    "tags": [
+      "html",
+      "jquery",
+      "ajax",
+      "csv"
+    ],
+    "user_id": 15300536,
+    "creation_date": "2021-03-01T08:53:54.107",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Flutter move container from bottom to top",
+    "tags": [
+      "flutter",
+      "google-maps",
+      "dart"
+    ],
+    "user_id": 12791644,
+    "creation_date": "2021-03-01T08:55:47.297",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why await statement is not working in new promise constructor",
+    "tags": [
+      "javascript",
+      "node.js"
+    ],
+    "user_id": 11950919,
+    "creation_date": "2021-03-01T09:00:24.393",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I get a specific icon that depends on another element from the HTML in Cypress?",
+    "tags": [
+      "javascript",
+      "angular",
+      "cypress"
+    ],
+    "user_id": 15305770,
+    "creation_date": "2021-03-01T09:11:20.860",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Sporadically opens trades when EA should be preventing this",
+    "tags": [
+      "mql4",
+      "metatrader4"
+    ],
+    "user_id": 14476920,
+    "creation_date": "2021-03-01T09:13:12.953",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Make a redirect in NextJs using auth0",
+    "tags": [
+      "reactjs",
+      "next.js"
+    ],
+    "user_id": 12540500,
+    "creation_date": "2021-03-01T09:13:38.317",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I reduce the size of my logo on a packing slip that is taking up half of a page?",
+    "tags": [
+      "bigcommerce"
+    ],
+    "user_id": 4928280,
+    "creation_date": "2021-03-01T09:19:28.990",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to filter Scala Map List values",
+    "tags": [
+      "scala"
+    ],
+    "user_id": 470184,
+    "creation_date": "2021-03-01T09:18:57.287",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Comparing strings stored in two different arrays and output a string from another array if the strings match",
+    "tags": [
+      "java",
+      "arrays",
+      "string",
+      "equals"
+    ],
+    "user_id": 12499664,
+    "creation_date": "2021-03-01T09:20:44.277",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "In TinyMCE the upload image name is different depending on whether you use drag-and-drop or file upload. Can we retain the original name?",
+    "tags": [
+      "tinymce"
+    ],
+    "user_id": 1267965,
+    "creation_date": "2021-03-01T09:21:18.877",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why is one thumbnail image larger than the rest on product collection page bigcommerce?",
+    "tags": [
+      "bigcommerce"
+    ],
+    "user_id": 4928280,
+    "creation_date": "2021-03-01T09:27:21.407",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can you use an anotation in an Spring Boot Entity to Bcrypt a password",
+    "tags": [
+      "spring",
+      "spring-boot",
+      "spring-security"
+    ],
+    "user_id": 11548777,
+    "creation_date": "2021-03-01T09:31:33.790",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "take out some fields key and values from the objects and transform into column structure, in MongoDB",
+    "tags": [
+      "arrays",
+      "mongodb",
+      "mongoose",
+      "mongodb-query",
+      "aggregation-framework"
+    ],
+    "user_id": 7871364,
+    "creation_date": "2021-03-01T09:31:34.873",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "how to add null values wherever there is a nan value using jdbc",
+    "tags": [
+      "java",
+      "mysql",
+      "csv",
+      "jdbc"
+    ],
+    "user_id": 15294729,
+    "creation_date": "2021-03-01T09:33:17.927",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "AWS Cost Explorer: What USE1 Bundle usage?",
+    "tags": [
+      "amazon-web-services"
+    ],
+    "user_id": 10738638,
+    "creation_date": "2021-03-01T09:37:44.040",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to print the desired file from a directory?",
+    "tags": [
+      "c"
+    ],
+    "user_id": 15150200,
+    "creation_date": "2021-03-01T09:43:36.987",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "PHP set set --raw-data in put request",
+    "tags": [
+      "php",
+      "curl"
+    ],
+    "user_id": 13440841,
+    "creation_date": "2021-03-01T10:01:15.333",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Routes not working on asp.net api project",
+    "tags": [
+      "c#",
+      "asp.net",
+      ".net",
+      "asp.net-mvc"
+    ],
+    "user_id": 1014217,
+    "creation_date": "2021-03-01T10:00:39.640",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Not able to invoke js chaincode in hyperledger fabric 2.2",
+    "tags": [
+      "hyperledger-fabric"
+    ],
+    "user_id": 14842966,
+    "creation_date": "2021-03-01T10:10:33.423",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Migrate axios to fetch",
+    "tags": [
+      "javascript",
+      "vue.js",
+      "vuejs2",
+      "axios",
+      "fetch"
+    ],
+    "user_id": 3005550,
+    "creation_date": "2021-03-01T10:11:39.067",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Converting datetime to a custom format",
+    "tags": [
+      "c#",
+      "datetime",
+      "unity3d"
+    ],
+    "user_id": 15242084,
+    "creation_date": "2021-03-01T10:13:56.140",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "first object key value compare with the another object key?",
+    "tags": [
+      "javascript",
+      "arrays",
+      "reactjs",
+      "react-native",
+      "object"
+    ],
+    "user_id": 14864048,
+    "creation_date": "2021-03-01T10:12:05.660",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "if cell in range is not empty add row with that specific value and copy some other values",
+    "tags": [
+      "excel",
+      "vba"
+    ],
+    "user_id": 15306137,
+    "creation_date": "2021-03-01T10:16:59.770",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I get a unknown column error but I do have the column?",
+    "tags": [
+      "java",
+      "jpa",
+      "orm",
+      "relational-database"
+    ],
+    "user_id": 15306182,
+    "creation_date": "2021-03-01T10:18:15.697",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I add a `else` in nginx config file?",
+    "tags": [
+      "nginx"
+    ],
+    "user_id": 5421539,
+    "creation_date": "2021-03-01T10:24:45.400",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Replacing all entries in one column by according elements in the rows using a function",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe"
+    ],
+    "user_id": 11572712,
+    "creation_date": "2021-03-01T10:28:27.807",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Need to fix switch statement and increasing an integer",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 15306259,
+    "creation_date": "2021-03-01T10:29:02.093",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "data not getting stored in the data base LARAVEL",
+    "tags": [
+      "php",
+      "laravel"
+    ],
+    "user_id": 15212488,
+    "creation_date": "2021-03-01T10:28:29.590",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to show a custom message page to AWS Kibana users when he logs in first time without any roles assigned",
+    "tags": [
+      "amazon-web-services",
+      "elasticsearch",
+      "kibana"
+    ],
+    "user_id": 7348631,
+    "creation_date": "2021-03-01T10:30:26.827",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "When do I use `apply` when to use `rollout`?",
+    "tags": [
+      "kubernetes"
+    ],
+    "user_id": 5421539,
+    "creation_date": "2021-03-01T10:32:03.367",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python Dictionary not allowing to subtract the values from each other (not keys, values)",
+    "tags": [
+      "python",
+      "list",
+      "csv",
+      "dictionary"
+    ],
+    "user_id": 13154825,
+    "creation_date": "2021-03-01T10:34:50.980",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Get rid of button, and have it's effects just be automatic",
+    "tags": [
+      "javascript",
+      "html",
+      "csv"
+    ],
+    "user_id": 15300536,
+    "creation_date": "2021-03-01T10:35:34.900",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Speech Emotion Recognition model predicting wrong classes",
+    "tags": [
+      "python",
+      "tensorflow",
+      "machine-learning",
+      "keras",
+      "speech-recognition"
+    ],
+    "user_id": 15264544,
+    "creation_date": "2021-03-01T10:36:37.873",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "jquery: can't get nested element by tag and change its html",
+    "tags": [
+      "javascript",
+      "jquery"
+    ],
+    "user_id": 4759176,
+    "creation_date": "2021-03-01T10:40:20.117",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Android Studio Kotlin: RecyclerView with multiple viewtypes with different data",
+    "tags": [
+      "android",
+      "kotlin",
+      "android-recyclerview"
+    ],
+    "user_id": 9418421,
+    "creation_date": "2021-03-01T10:36:48.300",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to loop through few lines",
+    "tags": [
+      "python",
+      "loops"
+    ],
+    "user_id": 15037705,
+    "creation_date": "2021-03-01T10:45:26.457",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Using connectivity package in Flutter with provider",
+    "tags": [
+      "flutter"
+    ],
+    "user_id": 2665223,
+    "creation_date": "2021-03-01T10:55:18.383",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Update data from server for ChartJS graph",
+    "tags": [
+      "angular",
+      "charts",
+      "chart.js",
+      "httpclient",
+      "real-time"
+    ],
+    "user_id": 15129312,
+    "creation_date": "2021-03-01T10:56:55.847",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I make input mask like this --:--:--?",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "input-mask"
+    ],
+    "user_id": 15189899,
+    "creation_date": "2021-03-01T11:00:01.337",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "JsonBigDecimalNumber incompatible with javax json JsonString",
+    "tags": [
+      "java",
+      "json"
+    ],
+    "user_id": 15306436,
+    "creation_date": "2021-03-01T11:02:54.100",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Find closest tuple from list of tuples - Python",
+    "tags": [
+      "python",
+      "list",
+      "tuples"
+    ],
+    "user_id": 13465898,
+    "creation_date": "2021-03-01T11:04:40.497",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I gave custom Index to String.Index working with unicode in Swift?",
+    "tags": [
+      "swift",
+      "string"
+    ],
+    "user_id": 13899957,
+    "creation_date": "2021-03-01T11:08:32.570",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why .isNotNull(); assertions fails even though I have a controller class?",
+    "tags": [
+      "java",
+      "spring-boot",
+      "testing",
+      "pivotal-web-services"
+    ],
+    "user_id": 13606345,
+    "creation_date": "2021-03-01T11:09:50.840",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "NAudio trying to load MP3 stream into Mp3FileReader wont read",
+    "tags": [
+      "c#",
+      "asp.net-core",
+      "naudio"
+    ],
+    "user_id": 11285069,
+    "creation_date": "2021-03-01T11:15:44.063",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "user create complex query and search over elasticsearch",
+    "tags": [
+      "ruby-on-rails",
+      "elasticsearch",
+      "frontend",
+      "backend"
+    ],
+    "user_id": 7393227,
+    "creation_date": "2021-03-01T11:19:39.897",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "What is the list of Ignite Communication ephemeral port range?",
+    "tags": [
+      "spring",
+      "ignite"
+    ],
+    "user_id": 9118951,
+    "creation_date": "2021-03-01T11:23:48.480",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How does kinesis firehose stream data to self managed elasticsearch?",
+    "tags": [
+      "amazon-web-services",
+      "elasticsearch",
+      "amazon-kinesis"
+    ],
+    "user_id": 5421539,
+    "creation_date": "2021-03-01T11:25:10.843",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I'm having problems to deploy front end app in netlify or vercel",
+    "tags": [
+      "reactjs",
+      "netlify"
+    ],
+    "user_id": 14072493,
+    "creation_date": "2021-03-01T11:28:06.887",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Error deleting a Discord message with timeout",
+    "tags": [
+      "javascript",
+      "node.js",
+      "discord",
+      "discord.js"
+    ],
+    "user_id": 15303029,
+    "creation_date": "2021-03-01T11:32:02.643",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Azure AD WebApi protected, how to call it via postman, Having issues with SCOPE Parameter",
+    "tags": [
+      "curl",
+      "oauth-2.0",
+      "azure-active-directory",
+      "postman"
+    ],
+    "user_id": 1014217,
+    "creation_date": "2021-03-01T11:33:13.220",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python Telepot bot inline keybard",
+    "tags": [
+      "python",
+      "bots",
+      "telepot"
+    ],
+    "user_id": 13897864,
+    "creation_date": "2021-03-01T11:37:07.997",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to slice and store a set of curves in multiple variables in matlab?",
+    "tags": [
+      "matlab",
+      "slice"
+    ],
+    "user_id": 14976970,
+    "creation_date": "2021-03-01T11:38:40.457",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Terraform 'aws_secretsmanager_secret' pass arn error: Invalid template interpolation value",
+    "tags": [
+      "amazon-web-services",
+      "lambda",
+      "terraform",
+      "terraform-provider-aws",
+      "secret-manager"
+    ],
+    "user_id": 10581944,
+    "creation_date": "2021-03-01T11:38:53.613",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Vue pass hidden inputs to form object",
+    "tags": [
+      "javascript",
+      "html",
+      "vue.js"
+    ],
+    "user_id": 3714932,
+    "creation_date": "2021-03-01T11:44:36.057",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Does Python interpreter return memory back to OS or not?",
+    "tags": [
+      "python",
+      "memory-management"
+    ],
+    "user_id": 9112151,
+    "creation_date": "2021-03-01T11:45:08.977",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "printing same name, price,and link in BeautifulSoup python",
+    "tags": [
+      "python",
+      "selenium",
+      "beautifulsoup",
+      "python-requests"
+    ],
+    "user_id": 15306761,
+    "creation_date": "2021-03-01T11:47:20.317",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Return List<User> from Firestore Flutter",
+    "tags": [
+      "firebase",
+      "flutter",
+      "dart",
+      "google-cloud-firestore"
+    ],
+    "user_id": 14943540,
+    "creation_date": "2021-03-01T11:48:34.693",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "NextJS Image component not responding to my inline css inside it",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "next.js",
+      "nextjs-image"
+    ],
+    "user_id": 14806798,
+    "creation_date": "2021-03-01T11:49:02.210",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Partial match string in two dataframe columns",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 15207648,
+    "creation_date": "2021-03-01T11:51:08.863",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to intercept all http responses in flutter?",
+    "tags": [
+      "android",
+      "ios",
+      "flutter",
+      "dart",
+      "httpinterceptor"
+    ],
+    "user_id": 11306028,
+    "creation_date": "2021-03-01T11:51:17.753",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "afterTextChanged() event callback of TextWatcher gets invoked even when the user does not tap on the EditText field",
+    "tags": [
+      "java",
+      "android",
+      "android-edittext",
+      "textwatcher",
+      "android-textwatcher"
+    ],
+    "user_id": 11702329,
+    "creation_date": "2021-03-01T11:53:07.407",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Is there a way to ignore cloudwatch alarms when they are triggered at night?",
+    "tags": [
+      "amazon-web-services",
+      "amazon-cloudwatch"
+    ],
+    "user_id": 3740545,
+    "creation_date": "2021-03-01T11:55:10.223",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Lua body_data() returns nil although request body is not empty",
+    "tags": [
+      "nginx",
+      "github",
+      "lua",
+      "webhooks"
+    ],
+    "user_id": 9733887,
+    "creation_date": "2021-03-01T11:55:18.480",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Sorting values Bottom-Top order",
+    "tags": [
+      "c#",
+      "unity3d"
+    ],
+    "user_id": 15242084,
+    "creation_date": "2021-03-01T12:03:09.390",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "wrap text xlsxwriter columns pd dataframe python",
+    "tags": [
+      "python-3.x",
+      "pandas",
+      "conditional-formatting",
+      "xlsxwriter"
+    ],
+    "user_id": 15158693,
+    "creation_date": "2021-03-01T12:03:48.227",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I write this nested for loop as a list comprehension?",
+    "tags": [
+      "python",
+      "arrays",
+      "numpy",
+      "for-loop",
+      "jupyter"
+    ],
+    "user_id": 14714547,
+    "creation_date": "2021-03-01T12:06:00.710",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why this formula could not be calculated in c++?",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 15305274,
+    "creation_date": "2021-03-01T12:05:52.653",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Deferent result in Unicode to String in Swift",
+    "tags": [
+      "swift",
+      "string",
+      "unicodescalar"
+    ],
+    "user_id": 13899957,
+    "creation_date": "2021-03-01T12:15:06.583",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python variable webelement/list to .txt Selenium",
+    "tags": [
+      "python",
+      "selenium",
+      "qwebelement"
+    ],
+    "user_id": 15302973,
+    "creation_date": "2021-03-01T12:22:49.373",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "In TinyMCE how do you deal with images uploaded to the server and then deleted in the editor?",
+    "tags": [
+      "tinymce"
+    ],
+    "user_id": 1267965,
+    "creation_date": "2021-03-01T12:37:09.630",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Identity4 back-channel logout SSO/SLO not working for all clients",
+    "tags": [
+      "asp.net-core",
+      "identityserver4",
+      "single-logout"
+    ],
+    "user_id": 4634961,
+    "creation_date": "2021-03-01T12:41:19.157",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Speeding up Binary File Open",
+    "tags": [
+      "python",
+      "python-3.x",
+      "binary"
+    ],
+    "user_id": 7388149,
+    "creation_date": "2021-03-01T12:47:25.440",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to get string before a character appearing multiple times in power automate",
+    "tags": [
+      "power-automate"
+    ],
+    "user_id": 15175378,
+    "creation_date": "2021-03-01T12:47:46.370",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Loopback 4: how to import ValidationError?",
+    "tags": [
+      "validation",
+      "loopback4"
+    ],
+    "user_id": 2297996,
+    "creation_date": "2021-03-01T12:48:07.607",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "SQL into LinQ Stement involving SUM()",
+    "tags": [
+      "c#",
+      "sql",
+      "entity-framework",
+      "linq"
+    ],
+    "user_id": 15048815,
+    "creation_date": "2021-03-01T12:50:22.367",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to add a comment to setup.cfg?",
+    "tags": [
+      "python",
+      "python-3.x",
+      "setuptools"
+    ],
+    "user_id": 14516046,
+    "creation_date": "2021-03-01T12:51:36.603",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Inserting current GMT time in React DatePicker",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "date",
+      "momentjs"
+    ],
+    "user_id": 9391318,
+    "creation_date": "2021-03-01T12:52:13.840",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to avoid retries while the shutting down the application in camel?",
+    "tags": [
+      "java",
+      "apache-camel"
+    ],
+    "user_id": 810358,
+    "creation_date": "2021-03-01T12:53:02.240",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why my local storage is not saving after page refresh",
+    "tags": [
+      "reactjs",
+      "local-storage",
+      "use-effect"
+    ],
+    "user_id": 14072493,
+    "creation_date": "2021-03-01T12:59:04.633",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Android Studio Kotlin: RecyclerView must not be Null RuntimeException",
+    "tags": [
+      "android",
+      "kotlin",
+      "android-recyclerview"
+    ],
+    "user_id": 9418421,
+    "creation_date": "2021-03-01T12:45:14.293",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "how to choose the right batch size while bulk inserting",
+    "tags": [
+      "java",
+      "mysql",
+      "sql",
+      "jdbc"
+    ],
+    "user_id": 15294729,
+    "creation_date": "2021-03-01T13:02:13.913",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Use PHP to determine the type value from input",
+    "tags": [
+      "php",
+      "input",
+      "types"
+    ],
+    "user_id": 15221425,
+    "creation_date": "2021-03-01T13:08:22.010",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I merge two ResourceDictionary objects into Application.Current.Resources using C# instead of XAML?",
+    "tags": [
+      "c#",
+      "xamarin",
+      "xamarin.forms",
+      "resourcedictionary",
+      "mergeddictionaries"
+    ],
+    "user_id": 10175561,
+    "creation_date": "2021-03-01T13:10:07.853",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Detect Nullable change",
+    "tags": [
+      "c#",
+      "nullable-reference-types"
+    ],
+    "user_id": 13440841,
+    "creation_date": "2021-03-01T13:13:01.647",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Unable to show the message list in left and right side of the chat room, always showing all the message in left side(receiver side)",
+    "tags": [
+      "android",
+      "android-recyclerview",
+      "android-adapter"
+    ],
+    "user_id": 8936551,
+    "creation_date": "2021-03-01T13:12:40.667",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How I can know audio/video duration before uploading?",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "audio",
+      "video"
+    ],
+    "user_id": 15189899,
+    "creation_date": "2021-03-01T13:15:06.433",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "NodeJs: not returning correct count fo Dynamodb table",
+    "tags": [
+      "node.js",
+      "amazon-web-services",
+      "amazon-dynamodb"
+    ],
+    "user_id": 2463570,
+    "creation_date": "2021-03-01T13:17:53.670",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "how to implement query string on rails project?",
+    "tags": [
+      "ruby-on-rails",
+      "elasticsearch"
+    ],
+    "user_id": 7393227,
+    "creation_date": "2021-03-01T13:17:48.983",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Find out Python interpreter memory consumption",
+    "tags": [
+      "python",
+      "tracemalloc"
+    ],
+    "user_id": 9112151,
+    "creation_date": "2021-03-01T13:18:39.963",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Is it possible to get time of the day as a metric in AWS Cloudwatch?",
+    "tags": [
+      "amazon-web-services",
+      "amazon-cloudwatch"
+    ],
+    "user_id": 3740545,
+    "creation_date": "2021-03-01T13:21:31.357",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Configuring an Eclipse project to run on Tomcat",
+    "tags": [
+      "eclipse"
+    ],
+    "user_id": 1052610,
+    "creation_date": "2021-03-01T13:26:04.113",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Passing MP3 from controller to view .NET CORE MVC",
+    "tags": [
+      "c#",
+      "html",
+      "asp.net-core",
+      "asp.net-core-mvc"
+    ],
+    "user_id": 11285069,
+    "creation_date": "2021-03-01T13:26:14.660",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to integrate \"onprogress\" function in react-azure-mp?",
+    "tags": [
+      "reactjs",
+      "azure"
+    ],
+    "user_id": 10638811,
+    "creation_date": "2021-03-01T13:27:25.360",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Extract month from date",
+    "tags": [
+      "postgresql"
+    ],
+    "user_id": 15307393,
+    "creation_date": "2021-03-01T13:30:56.367",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to import module only when I need to use it?",
+    "tags": [
+      "python",
+      "python-3.x",
+      "pytorch"
+    ],
+    "user_id": 13173688,
+    "creation_date": "2021-03-01T13:31:05.440",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Adding a value into an existing object in a list of objects based on the index",
+    "tags": [
+      "javascript",
+      "arrays",
+      "reactjs",
+      "object",
+      "array.prototype.map"
+    ],
+    "user_id": 13649837,
+    "creation_date": "2021-03-01T13:30:55.833",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Unparseable date - in java",
+    "tags": [
+      "java",
+      "json",
+      "datetime"
+    ],
+    "user_id": 15306436,
+    "creation_date": "2021-03-01T13:34:45.523",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "extracting br tags beautiful soup python",
+    "tags": [
+      "python",
+      "beautifulsoup"
+    ],
+    "user_id": 14982632,
+    "creation_date": "2021-03-01T13:34:44.983",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Using numpy random choice in numba",
+    "tags": [
+      "python",
+      "numpy",
+      "numba"
+    ],
+    "user_id": 7631505,
+    "creation_date": "2021-03-01T13:34:10.207",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to import platform specific file in flutter?",
+    "tags": [
+      "javascript",
+      "flutter",
+      "dart"
+    ],
+    "user_id": 3881465,
+    "creation_date": "2021-03-01T13:37:04.377",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "MediaRecorder: How to stop Video recording and play back in same video element?",
+    "tags": [
+      "mediarecorder"
+    ],
+    "user_id": 300675,
+    "creation_date": "2021-03-01T13:39:58.640",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Cant display the numbers lost over 100",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 15306259,
+    "creation_date": "2021-03-01T13:43:21.603",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Kubernetes NetworkPolicy limit egress traffic to service",
+    "tags": [
+      "kubernetes",
+      "project-calico",
+      "kubernetes-networkpolicy"
+    ],
+    "user_id": 625521,
+    "creation_date": "2021-03-01T13:43:22.740",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Uncaught TypeError Object is not a function",
+    "tags": [
+      "vue.js",
+      "vuetify.js"
+    ],
+    "user_id": 14257755,
+    "creation_date": "2021-03-01T13:45:30.633",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I would like to use { useForm } from \"react-hook-form\" in class component",
+    "tags": [
+      "reactjs",
+      "react-hook-form"
+    ],
+    "user_id": 14232549,
+    "creation_date": "2021-03-01T13:46:33.320",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Error picking up the user's avatar (discord.js)",
+    "tags": [
+      "javascript",
+      "node.js",
+      "discord.js"
+    ],
+    "user_id": 15303029,
+    "creation_date": "2021-03-01T13:52:45.703",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "404 on new asp.net web api, after route config is setup",
+    "tags": [
+      "c#",
+      "asp.net",
+      ".net",
+      "asp.net-mvc",
+      "asp.net-web-api"
+    ],
+    "user_id": 1014217,
+    "creation_date": "2021-03-01T13:57:06.397",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Normalized the Array structure into Multiple documents in mongoDB",
+    "tags": [
+      "arrays",
+      "mongodb",
+      "mongoose",
+      "mongodb-query",
+      "aggregation-framework"
+    ],
+    "user_id": 7871364,
+    "creation_date": "2021-03-01T14:01:05.403",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Eclipse console throws a error and will not display",
+    "tags": [
+      "eclipse"
+    ],
+    "user_id": 1052610,
+    "creation_date": "2021-03-01T14:02:21.097",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why does my float right and left not working",
+    "tags": [
+      "html",
+      "jquery",
+      "css"
+    ],
+    "user_id": 15307576,
+    "creation_date": "2021-03-01T13:58:59.630",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Amazon Cost Explorer: Costs with \"no resource\" in Lightsail",
+    "tags": [
+      "amazon-web-services"
+    ],
+    "user_id": 10738638,
+    "creation_date": "2021-03-01T14:08:08.990",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "domPDF dynamic input values to PDF",
+    "tags": [
+      "php",
+      "dompdf",
+      "html-to-pdf",
+      "css-to-pdf"
+    ],
+    "user_id": 14807371,
+    "creation_date": "2021-03-01T14:01:17.697",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to properly setup Azure Media Player in React.js?",
+    "tags": [
+      "reactjs",
+      "azure",
+      "azure-media-player"
+    ],
+    "user_id": 10638811,
+    "creation_date": "2021-03-01T14:21:52.340",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Installing pylucene using pip",
+    "tags": [
+      "java",
+      "python",
+      "lucene",
+      "pylucene"
+    ],
+    "user_id": 470184,
+    "creation_date": "2021-03-01T14:27:49.723",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ChartJS - TypeError: Cannot read property '_model' of null - Angular",
+    "tags": [
+      "angular",
+      "typescript",
+      "charts",
+      "chart.js",
+      "subscribe"
+    ],
+    "user_id": 15129312,
+    "creation_date": "2021-03-01T14:35:33.903",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Gradient with specific color on ggplot2",
+    "tags": [
+      "r",
+      "ggplot2"
+    ],
+    "user_id": 15026912,
+    "creation_date": "2021-03-01T14:37:14.357",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Not able to reload the div while using jQuery $.ajax()",
+    "tags": [
+      "javascript",
+      "html",
+      "jquery",
+      "node.js",
+      "ajax"
+    ],
+    "user_id": 13218411,
+    "creation_date": "2021-03-01T14:37:17.260",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Displaying Bitmap Image from Database into GridView with ASP.NET",
+    "tags": [
+      "c#",
+      "sql",
+      "asp.net",
+      "sql-server",
+      "gridview"
+    ],
+    "user_id": 13804873,
+    "creation_date": "2021-03-01T14:41:54.913",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calculate the distance two points - from csv file",
+    "tags": [
+      "python",
+      "pandas",
+      "math"
+    ],
+    "user_id": 14542221,
+    "creation_date": "2021-03-01T14:42:01.207",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "flutter marker not showing on map",
+    "tags": [
+      "flutter",
+      "google-maps",
+      "dart"
+    ],
+    "user_id": 12791644,
+    "creation_date": "2021-03-01T14:48:21.873",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to handle async api calls to backend during page refresh in react/redux?",
+    "tags": [
+      "reactjs",
+      "redux",
+      "react-redux",
+      "redux-thunk",
+      "redux-persist"
+    ],
+    "user_id": 10407808,
+    "creation_date": "2021-03-01T14:52:09.287",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "MVC Replace Date in Controller with Empty String",
+    "tags": [
+      "c#",
+      "model-view-controller"
+    ],
+    "user_id": 4888684,
+    "creation_date": "2021-03-01T14:53:51.720",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Replace or move specific value with numbers series",
+    "tags": [
+      "excel",
+      "vba"
+    ],
+    "user_id": 15306137,
+    "creation_date": "2021-03-01T14:55:00.940",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python automatic variable assignment based on list",
+    "tags": [
+      "python",
+      "string",
+      "list",
+      "for-loop"
+    ],
+    "user_id": 12291628,
+    "creation_date": "2021-03-01T14:56:16.823",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I made this colorbar but now I can't apply it to my contour plot",
+    "tags": [
+      "python",
+      "matplotlib",
+      "jupyter",
+      "colorbar"
+    ],
+    "user_id": 14714547,
+    "creation_date": "2021-03-01T14:56:58.180",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Postgresql Insert in multiple table using WITH and Ignore erros",
+    "tags": [
+      "sql",
+      "python-3.x",
+      "postgresql",
+      "psycopg2"
+    ],
+    "user_id": 1536343,
+    "creation_date": "2021-03-01T14:58:13.433",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "A layout overlapping a RecyclerView and this RecyclerView is still clickable on top of the layout",
+    "tags": [
+      "android",
+      "kotlin",
+      "android-recyclerview"
+    ],
+    "user_id": 15121451,
+    "creation_date": "2021-03-01T14:59:20.920",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "python concatenate .txt/list 2 file in one new file",
+    "tags": [
+      "python",
+      "selenium",
+      "concatenation"
+    ],
+    "user_id": 15302973,
+    "creation_date": "2021-03-01T15:01:52.250",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Lua script proxy_pass doesn't work as expected",
+    "tags": [
+      "nginx",
+      "lua",
+      "proxy",
+      "reverse-proxy",
+      "openresty"
+    ],
+    "user_id": 9733887,
+    "creation_date": "2021-03-01T15:02:19.237",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I union all rows of two different tables using MySQL 8.0.17 version?",
+    "tags": [
+      "mysql"
+    ],
+    "user_id": 15117016,
+    "creation_date": "2021-03-01T15:02:03.787",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Snowflake how can we cast all fields of select query when unpivot is not detecting fields with a different types?",
+    "tags": [
+      "sql",
+      "snowflake-cloud-data-platform",
+      "unpivot"
+    ],
+    "user_id": 3922727,
+    "creation_date": "2021-03-01T15:04:06.037",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why does it say 0 is not defined when I didn't type 0 in the line?",
+    "tags": [
+      "javascript",
+      "processing",
+      "p5.js"
+    ],
+    "user_id": 15302406,
+    "creation_date": "2021-03-01T15:10:17.977",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Find point distance from line - python",
+    "tags": [
+      "python",
+      "geometry",
+      "line",
+      "distance"
+    ],
+    "user_id": 13465898,
+    "creation_date": "2021-03-01T15:11:56.020",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Adding multiple providers to root widget",
+    "tags": [
+      "flutter"
+    ],
+    "user_id": 2665223,
+    "creation_date": "2021-03-01T15:13:05.970",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Migrating a legacy java web project to Spring Boot",
+    "tags": [
+      "spring-boot"
+    ],
+    "user_id": 1052610,
+    "creation_date": "2021-03-01T15:13:25.990",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "My value is undefined in my render after I console it out and it is shown",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "undefined",
+      "use-effect"
+    ],
+    "user_id": 13649837,
+    "creation_date": "2021-03-01T15:15:36.007",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python Pandas SQL Query Error - module 'time' has no attribute 'clock'",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 8231936,
+    "creation_date": "2021-03-01T15:17:38.527",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Replicating a Python workflow for pre-processing of an image for Tensorflow in a Javascript environment",
+    "tags": [
+      "javascript",
+      "python",
+      "tensorflow",
+      "tensorflow.js",
+      "pyodide"
+    ],
+    "user_id": 15303125,
+    "creation_date": "2021-03-01T15:17:22.577",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I don't think that some of my code is optimized",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 15306259,
+    "creation_date": "2021-03-01T15:19:26.013",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "reply to call back query in telepot",
+    "tags": [
+      "python",
+      "bots",
+      "telepot"
+    ],
+    "user_id": 13897864,
+    "creation_date": "2021-03-01T15:20:32.193",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Is there a way to automate the commit, push after applying a plugin in Jenkins 2 job?",
+    "tags": [
+      "jenkins",
+      "jenkins-pipeline",
+      "jenkins-groovy"
+    ],
+    "user_id": 9118951,
+    "creation_date": "2021-03-01T15:22:54.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Position of an imageview changing when searching for an item in RecyclerView",
+    "tags": [
+      "java",
+      "android",
+      "android-recyclerview",
+      "android-adapter"
+    ],
+    "user_id": 11702329,
+    "creation_date": "2021-03-01T15:33:40.373",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Name Conte not defined in python",
+    "tags": [
+      "python",
+      "selenium",
+      "beautifulsoup",
+      "python-requests",
+      "webdriver"
+    ],
+    "user_id": 15306761,
+    "creation_date": "2021-03-01T15:41:33.433",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to load files from two directories using a loop if some characters of filenames match?",
+    "tags": [
+      "python",
+      "pandas",
+      "glob"
+    ],
+    "user_id": 11572712,
+    "creation_date": "2021-03-01T15:48:46.893",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ruby - Sum consecutive duplicate numbers in an array",
+    "tags": [
+      "arrays",
+      "ruby",
+      "methods",
+      "sum",
+      "conditional-statements"
+    ],
+    "user_id": 14880205,
+    "creation_date": "2021-03-01T15:51:41.913",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Which Id should I set when I am using a bridge table?",
+    "tags": [
+      "java",
+      "rest",
+      "setter"
+    ],
+    "user_id": 15306182,
+    "creation_date": "2021-03-01T15:56:23.340",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I Push/add entries from Lambda response to environment variables in Python dynamically?",
+    "tags": [
+      "python",
+      "amazon-web-services",
+      "aws-lambda"
+    ],
+    "user_id": 7348631,
+    "creation_date": "2021-03-01T15:57:44.863",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Is exit selection necessary in D3?",
+    "tags": [
+      "javascript",
+      "html",
+      "d3.js"
+    ],
+    "user_id": 13415477,
+    "creation_date": "2021-03-01T15:57:11.470",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Run function without duplicate",
+    "tags": [
+      "c++",
+      "c++98"
+    ],
+    "user_id": 13381244,
+    "creation_date": "2021-03-01T16:00:31.283",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can Datomic dev-local be installed on windows?",
+    "tags": [
+      "windows",
+      "installation",
+      "clojure",
+      "datomic"
+    ],
+    "user_id": 2436737,
+    "creation_date": "2021-03-01T15:59:59.537",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Change image view content using picasso in a fragment",
+    "tags": [
+      "android",
+      "kotlin",
+      "imageview"
+    ],
+    "user_id": 15290831,
+    "creation_date": "2021-03-01T16:02:13.260",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Circle border without using border-?",
+    "tags": [
+      "javascript",
+      "html",
+      "css"
+    ],
+    "user_id": 15207965,
+    "creation_date": "2021-03-01T16:15:04.177",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to fix \"PT006 wrong name(s) type in @pytest.mark.parametrize, expected tuple\"?",
+    "tags": [
+      "python",
+      "python-3.x",
+      "pytest",
+      "flake8"
+    ],
+    "user_id": 14516046,
+    "creation_date": "2021-03-01T16:18:54.887",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Snowflake how can we run an unpivot query over an array of fields instead of explicitly declare each field?",
+    "tags": [
+      "sql",
+      "snowflake-cloud-data-platform",
+      "unpivot"
+    ],
+    "user_id": 3922727,
+    "creation_date": "2021-03-01T16:19:00.243",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why is jaxws-maven-plugin ignoring my .WSDL file?",
+    "tags": [
+      "java",
+      "eclipse",
+      "maven",
+      "jax-ws",
+      "jaxws-maven-plugin"
+    ],
+    "user_id": 10558667,
+    "creation_date": "2021-03-01T16:26:49.557",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Normalized Object and array in MongoDB",
+    "tags": [
+      "arrays",
+      "mongodb",
+      "mongoose",
+      "mongodb-query",
+      "aggregation-framework"
+    ],
+    "user_id": 7871364,
+    "creation_date": "2021-03-01T16:27:50.697",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to transfer a particular file into a directory?",
+    "tags": [
+      "c"
+    ],
+    "user_id": 15150200,
+    "creation_date": "2021-03-01T16:36:43.287",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Extracting array from dictionary value",
+    "tags": [
+      "python",
+      "arrays"
+    ],
+    "user_id": 15298832,
+    "creation_date": "2021-03-01T16:41:36.217",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calling a provider method outside the widget tree",
+    "tags": [
+      "flutter"
+    ],
+    "user_id": 2665223,
+    "creation_date": "2021-03-01T16:43:21.393",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Delete a value from the list in ReactJs",
+    "tags": [
+      "reactjs"
+    ],
+    "user_id": 12540500,
+    "creation_date": "2021-03-01T16:44:36.610",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "requests.exceptions.HTTPError: 401 Client Error atlassian-python-api",
+    "tags": [
+      "python",
+      "confluence",
+      "confluence-rest-api",
+      "atlassian-python-api"
+    ],
+    "user_id": 7631505,
+    "creation_date": "2021-03-01T16:47:19.937",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to define a simple array of strings in TypeScript",
+    "tags": [
+      "reactjs",
+      "typescript"
+    ],
+    "user_id": 10564162,
+    "creation_date": "2021-03-01T16:51:58.107",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calculating a sum of observations for time intervals in a df",
+    "tags": [
+      "r"
+    ],
+    "user_id": 13153658,
+    "creation_date": "2021-03-01T16:56:07.790",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "split string and replace indices",
+    "tags": [
+      "r",
+      "string",
+      "gsub"
+    ],
+    "user_id": 6699974,
+    "creation_date": "2021-03-01T16:59:11.853",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can i rotate the content of an iframe uisng JavaScript OR CSS",
+    "tags": [
+      "javascript",
+      "html",
+      "css",
+      "iframe",
+      "rotation"
+    ],
+    "user_id": 1103028,
+    "creation_date": "2021-03-01T17:00:05.663",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Distance of two points - csv file",
+    "tags": [
+      "python",
+      "math"
+    ],
+    "user_id": 14542221,
+    "creation_date": "2021-03-01T17:01:26.210",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Firebase get request querying multiple tables",
+    "tags": [
+      "firebase",
+      "google-cloud-functions"
+    ],
+    "user_id": 8803831,
+    "creation_date": "2021-03-01T17:03:24.483",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "TELEPOT Keep getting error 400 when chat not found when trying to call back query to send a message",
+    "tags": [
+      "python",
+      "bots",
+      "telepot"
+    ],
+    "user_id": 13897864,
+    "creation_date": "2021-03-01T17:10:08.410",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Button listeners in a quiz - the old listeners produce wrong output",
+    "tags": [
+      "javascript",
+      "jquery"
+    ],
+    "user_id": 4759176,
+    "creation_date": "2021-03-01T17:08:32.037",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "string variable in if statment fail",
+    "tags": [
+      "java"
+    ],
+    "user_id": 15308738,
+    "creation_date": "2021-03-01T17:13:04.173",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to mock FTP connection with FTPS/TLS version 1.2?",
+    "tags": [
+      "python",
+      "unit-testing",
+      "ssl",
+      "python-unittest",
+      "ftplib"
+    ],
+    "user_id": 10581944,
+    "creation_date": "2021-03-01T17:15:20.753",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can i rotate a column chart inside power app",
+    "tags": [
+      "powerapps",
+      "powerapps-canvas"
+    ],
+    "user_id": 1103028,
+    "creation_date": "2021-03-01T17:17:52.733",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "count contiguous NaN values and get the start and final date of the NaN contiguous period",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 13039962,
+    "creation_date": "2021-03-01T17:21:00.227",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "MVC Html.Checkbox",
+    "tags": [
+      "c#",
+      "model-view-controller"
+    ],
+    "user_id": 4888684,
+    "creation_date": "2021-03-01T17:21:37.377",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "getting error for Ghostscript when converting pdf to image",
+    "tags": [
+      "python-3.x",
+      "image",
+      "pdf",
+      "ghostscript"
+    ],
+    "user_id": 7124155,
+    "creation_date": "2021-03-01T17:23:44.100",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Loopback 4 extensions: how to use them with middleware sequence",
+    "tags": [
+      "middleware",
+      "loopback4"
+    ],
+    "user_id": 2297996,
+    "creation_date": "2021-03-01T17:31:41.000",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Adding listen_address=\"*\" makes my postgres stop working locally",
+    "tags": [
+      "postgresql"
+    ],
+    "user_id": 612258,
+    "creation_date": "2021-03-01T17:34:35.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "C++ coroutines and ANDROID flag",
+    "tags": [
+      "android",
+      "cmake",
+      "android-ndk",
+      "c++-coroutine"
+    ],
+    "user_id": 1756939,
+    "creation_date": "2021-03-01T17:37:47.530",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calculating sums of observation in time intervals in a df",
+    "tags": [
+      "r"
+    ],
+    "user_id": 13153658,
+    "creation_date": "2021-03-01T17:38:20.787",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Task done right, answer not being accepted",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 13381244,
+    "creation_date": "2021-03-01T17:42:18.313",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "not working event setOnClickListener in fragment",
+    "tags": [
+      "android",
+      "kotlin",
+      "button"
+    ],
+    "user_id": 15290831,
+    "creation_date": "2021-03-01T17:43:49.493",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to enter inside a bracket [] when testing API response body using MockMvc .jsonpath() method",
+    "tags": [
+      "java",
+      "rest",
+      "mockmvc"
+    ],
+    "user_id": 13606345,
+    "creation_date": "2021-03-01T17:45:35.300",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "barplot with two values on the same column",
+    "tags": [
+      "r",
+      "ggplot2"
+    ],
+    "user_id": 15026912,
+    "creation_date": "2021-03-01T17:45:48.207",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "In Xamarin if I merge two resource directories can I still make changes to each and have them appear when the resources are searched for?",
+    "tags": [
+      "xamarin",
+      "xamarin.forms"
+    ],
+    "user_id": 10175561,
+    "creation_date": "2021-03-01T17:47:14.787",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to use Uvicorn with asyncio.create_task() to put task in background?",
+    "tags": [
+      "python",
+      "python-3.x",
+      "graphql",
+      "python-asyncio",
+      "uvicorn"
+    ],
+    "user_id": 13173688,
+    "creation_date": "2021-03-01T17:46:50.250",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to store large data in next js session or use session file storage?",
+    "tags": [
+      "node.js",
+      "express",
+      "session",
+      "next.js"
+    ],
+    "user_id": 6769934,
+    "creation_date": "2021-03-01T18:01:03.097",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Vue: CSS modules not applying or showing with SCSS",
+    "tags": [
+      "vue.js",
+      "vuejs2"
+    ],
+    "user_id": 13771720,
+    "creation_date": "2021-03-01T18:00:37.913",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Integrate working JS code in TypeScript setup",
+    "tags": [
+      "reactjs",
+      "typescript"
+    ],
+    "user_id": 10564162,
+    "creation_date": "2021-03-01T18:06:14.977",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to initialise an array in python in one line with if statement",
+    "tags": [
+      "python"
+    ],
+    "user_id": 14768673,
+    "creation_date": "2021-03-01T18:07:08.010",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Mismatch in extracting names using web scraping beautifulsoup in python",
+    "tags": [
+      "python",
+      "web-scraping",
+      "beautifulsoup"
+    ],
+    "user_id": 14982632,
+    "creation_date": "2021-03-01T18:09:19.510",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Responsive form",
+    "tags": [
+      "vue.js",
+      "vuetify.js"
+    ],
+    "user_id": 14257755,
+    "creation_date": "2021-03-01T18:15:47.663",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Saving graphs to .html using mpld3",
+    "tags": [
+      "python",
+      "flask",
+      "seaborn",
+      "mpld3"
+    ],
+    "user_id": 15000487,
+    "creation_date": "2021-03-01T18:19:07.830",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ASP.NET MVC Knockout button click call POST API",
+    "tags": [
+      "javascript",
+      "c#",
+      "asp.net-mvc",
+      "model-view-controller",
+      "knockout-mvc"
+    ],
+    "user_id": 5383872,
+    "creation_date": "2021-03-01T18:22:32.193",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Set the current GMT time in HH:mm:ss",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "momentjs"
+    ],
+    "user_id": 9391318,
+    "creation_date": "2021-03-01T18:25:42.730",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to make animation using ObjectAnimator?",
+    "tags": [
+      "android",
+      "kotlin",
+      "objectanimator"
+    ],
+    "user_id": 15121451,
+    "creation_date": "2021-03-01T18:27:54.820",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I am rewriting a class component to a functional component in react-redux-firebase project",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "redux",
+      "react-redux",
+      "react-redux-firebase"
+    ],
+    "user_id": 14232549,
+    "creation_date": "2021-03-01T18:27:30.500",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "shell function that takes directory name as it's parameter and checks whether the directory already exists",
+    "tags": [
+      "linux",
+      "bash",
+      "function"
+    ],
+    "user_id": 10154303,
+    "creation_date": "2021-03-01T18:28:06.137",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to declare types on Typescript for spread props",
+    "tags": [
+      "reactjs",
+      "typescript"
+    ],
+    "user_id": 10564162,
+    "creation_date": "2021-03-01T18:30:00.963",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Vue submit input hidden",
+    "tags": [
+      "javascript",
+      "html",
+      "vue.js"
+    ],
+    "user_id": 3714932,
+    "creation_date": "2021-03-01T18:31:25.733",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do you rerun your code in tkinter by the click of a button",
+    "tags": [
+      "python",
+      "tkinter"
+    ],
+    "user_id": 13154825,
+    "creation_date": "2021-03-01T18:34:09.737",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Reshaping tensors in tensorflow.js to an unusual shape [-1, 9, 9, 512]",
+    "tags": [
+      "javascript",
+      "tensorflow.js"
+    ],
+    "user_id": 15303125,
+    "creation_date": "2021-03-01T18:37:27.083",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "global name chat_id is not defined",
+    "tags": [
+      "python",
+      "bots",
+      "telepot"
+    ],
+    "user_id": 13897864,
+    "creation_date": "2021-03-01T18:44:00.537",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "What the return statement would do inside the router.post in nodejs",
+    "tags": [
+      "javascript",
+      "node.js"
+    ],
+    "user_id": 11950919,
+    "creation_date": "2021-03-01T18:49:32.480",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Iterate through Multiple Lists and assign Variables based on each iteration",
+    "tags": [
+      "python",
+      "selenium",
+      "selenium-chromedriver"
+    ],
+    "user_id": 9383043,
+    "creation_date": "2021-03-01T18:49:34.533",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Mysql Stored Procedure not returning a INT out parameter",
+    "tags": [
+      "mysql",
+      "stored-procedures",
+      "store"
+    ],
+    "user_id": 15117016,
+    "creation_date": "2021-03-01T18:52:15.493",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Django Deployment with Elastic Beanstalk with AWS: 'Internal Server Error'",
+    "tags": [
+      "amazon-web-services"
+    ],
+    "user_id": 10738638,
+    "creation_date": "2021-03-01T18:55:55.857",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ColumnTypeUndefinedError in TypeORM",
+    "tags": [
+      "javascript",
+      "mysql",
+      "sql",
+      "typescript",
+      "typeorm"
+    ],
+    "user_id": 15207965,
+    "creation_date": "2021-03-01T18:57:31.587",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Cant show the list of images in ReactJs",
+    "tags": [
+      "javascript",
+      "reactjs"
+    ],
+    "user_id": 12540500,
+    "creation_date": "2021-03-01T19:03:48.817",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Flutter WebView giving error Name not resolved for local web app hosted on IIS",
+    "tags": [
+      "android",
+      "flutter",
+      "iis",
+      "webview"
+    ],
+    "user_id": 3881465,
+    "creation_date": "2021-03-01T19:05:47.890",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why does one variable work, while the other one doesn't, and the two variables are very similiar",
+    "tags": [
+      "javascript",
+      "p5.js"
+    ],
+    "user_id": 15302406,
+    "creation_date": "2021-03-01T19:05:06.257",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to pass alias to my string in Cypress? cy.type(@alias) not working for me. I want to pass the text value I got in the previous text",
+    "tags": [
+      "javascript",
+      "cypress"
+    ],
+    "user_id": 15305770,
+    "creation_date": "2021-03-01T19:07:17.860",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Get picture from Firebase Storage and show it to the user Flutter",
+    "tags": [
+      "firebase",
+      "flutter",
+      "firebase-storage"
+    ],
+    "user_id": 14943540,
+    "creation_date": "2021-03-01T19:11:42.213",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Put text on the same line with button",
+    "tags": [
+      "html",
+      "css",
+      "button",
+      "inline"
+    ],
+    "user_id": 5116082,
+    "creation_date": "2021-03-01T19:11:51.333",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "date formating in R",
+    "tags": [
+      "r"
+    ],
+    "user_id": 15158968,
+    "creation_date": "2021-03-01T19:18:11.097",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ruby - calculating time in supermarket queue",
+    "tags": [
+      "arrays",
+      "ruby",
+      "methods",
+      "event-simulation"
+    ],
+    "user_id": 14880205,
+    "creation_date": "2021-03-01T19:19:37.483",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to predict from new data set?",
+    "tags": [
+      "python",
+      "tensorflow",
+      "machine-learning",
+      "keras",
+      "speech-recognition"
+    ],
+    "user_id": 15264544,
+    "creation_date": "2021-03-01T19:26:54.713",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Question concerning Python short notation",
+    "tags": [
+      "python"
+    ],
+    "user_id": 14768673,
+    "creation_date": "2021-03-01T19:38:00.393",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Php get name input file when send POST",
+    "tags": [
+      "php",
+      "input",
+      "upload"
+    ],
+    "user_id": 15221425,
+    "creation_date": "2021-03-01T19:38:27.940",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to print several values stored in String?",
+    "tags": [
+      "java"
+    ],
+    "user_id": 15308738,
+    "creation_date": "2021-03-01T19:38:33.703",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Mysql-workbench data base is not connected on eclipse ubuntu",
+    "tags": [
+      "java",
+      "mysql",
+      "eclipse",
+      "mysql-workbench",
+      "mysql-connector"
+    ],
+    "user_id": 10985823,
+    "creation_date": "2021-03-01T19:38:51.243",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Messagebox is closing trades regardless of \"Yes\" or \"No\" button clicked",
+    "tags": [
+      "mql4",
+      "metatrader4"
+    ],
+    "user_id": 14476920,
+    "creation_date": "2021-03-01T19:37:36.353",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Swift Generics and Protocols",
+    "tags": [
+      "swift",
+      "generics",
+      "protocols"
+    ],
+    "user_id": 1223595,
+    "creation_date": "2021-03-01T19:40:01.850",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Lein clean and re-download dependencies",
+    "tags": [
+      "clojure",
+      "leiningen"
+    ],
+    "user_id": 2436737,
+    "creation_date": "2021-03-01T19:42:16.583",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Merge not inserting new values",
+    "tags": [
+      "sql",
+      "sql-server",
+      "tsql",
+      "sql-server-2017",
+      "sql-merge"
+    ],
+    "user_id": 8231936,
+    "creation_date": "2021-03-01T19:43:03.873",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Unit testing and mocking",
+    "tags": [
+      "c#",
+      "unit-testing",
+      "asp.net-core",
+      "graphql",
+      "mocking"
+    ],
+    "user_id": 15303843,
+    "creation_date": "2021-03-01T19:46:20.863",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "I want to add new option to table row on hover",
+    "tags": [
+      "css",
+      "reactjs",
+      "jsx"
+    ],
+    "user_id": 14383678,
+    "creation_date": "2021-03-01T19:49:50.160",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can i check if a double value is between pair values inside a Dictionary<double,double>",
+    "tags": [
+      "c#"
+    ],
+    "user_id": 1103028,
+    "creation_date": "2021-03-01T19:58:14.700",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Button and imageview do not work in a fragment",
+    "tags": [
+      "android",
+      "kotlin",
+      "button",
+      "imageview"
+    ],
+    "user_id": 15290831,
+    "creation_date": "2021-03-01T19:58:26.807",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Python Pandas find rows that match a pattern using column first characters and a set of values to match",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 1536343,
+    "creation_date": "2021-03-01T20:01:46.613",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Where can I find I/O address range of BIOS?",
+    "tags": [
+      "memory-address",
+      "bios",
+      "datasheet",
+      "chipset",
+      "memory-mapped-io"
+    ],
+    "user_id": 14099231,
+    "creation_date": "2021-03-01T20:07:22.237",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why do I get a number when I add chars?",
+    "tags": [
+      "java",
+      "char",
+      "type-conversion",
+      "integer"
+    ],
+    "user_id": 15231914,
+    "creation_date": "2021-03-01T20:08:50.490",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Global name is not defined telepot",
+    "tags": [
+      "python",
+      "bots",
+      "telepot"
+    ],
+    "user_id": 13897864,
+    "creation_date": "2021-03-01T20:23:21.203",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "spiral 2d array starting from the bottom",
+    "tags": [
+      "arrays",
+      "c",
+      "matrix"
+    ],
+    "user_id": 15217211,
+    "creation_date": "2021-03-01T20:24:43.227",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "replacing part of a string in a boolean rule with indices",
+    "tags": [
+      "r",
+      "string",
+      "gsub"
+    ],
+    "user_id": 6699974,
+    "creation_date": "2021-03-01T20:31:07.820",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I create a Java SOAP web service from a .WSDL file that includes methods with duplicate parameter names?",
+    "tags": [
+      "java",
+      "soap",
+      "jax-ws"
+    ],
+    "user_id": 10558667,
+    "creation_date": "2021-03-01T20:30:29.200",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Iterating through lists with different lengths",
+    "tags": [
+      "python",
+      "pandas",
+      "selenium",
+      "oop"
+    ],
+    "user_id": 9383043,
+    "creation_date": "2021-03-01T20:32:44.647",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why don't short-hand commands in mysql materialize",
+    "tags": [
+      "mysql"
+    ],
+    "user_id": 651174,
+    "creation_date": "2021-03-01T20:33:07.010",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Why cant i call session start inside a function?",
+    "tags": [
+      "javascript",
+      "php",
+      "html"
+    ],
+    "user_id": 15307576,
+    "creation_date": "2021-03-01T20:33:53.720",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Regex to ignore data between brackets",
+    "tags": [
+      "python",
+      "regex"
+    ],
+    "user_id": 470184,
+    "creation_date": "2021-03-01T20:43:39.077",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "DynamoDB get_item to read 400kb data in milliseconds",
+    "tags": [
+      "amazon-web-services",
+      "amazon-dynamodb"
+    ],
+    "user_id": 13615987,
+    "creation_date": "2021-03-01T20:43:18.807",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Kotlin Generic Function With Enum Constraint",
+    "tags": [
+      "kotlin",
+      "generics",
+      "enums",
+      "companion-object"
+    ],
+    "user_id": 14934288,
+    "creation_date": "2021-03-01T20:57:48.477",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How does the pre-processor work in the following example?",
+    "tags": [
+      "c"
+    ],
+    "user_id": 651174,
+    "creation_date": "2021-03-01T20:57:43.500",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Changing values in DataFrame row according to conditions",
+    "tags": [
+      "dataframe",
+      "julia"
+    ],
+    "user_id": 12213858,
+    "creation_date": "2021-03-01T21:16:47.547",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Vue pass pre-determined value",
+    "tags": [
+      "javascript",
+      "html",
+      "vue.js"
+    ],
+    "user_id": 3714932,
+    "creation_date": "2021-03-01T21:17:28.177",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to write PHP code that's inside HTML, which the last one is inside PHP?",
+    "tags": [
+      "php"
+    ],
+    "user_id": 14807371,
+    "creation_date": "2021-03-01T21:25:41.443",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "start postgreSQL Server and psql via batch file",
+    "tags": [
+      "postgresql",
+      "batch-file",
+      "command-line"
+    ],
+    "user_id": 15307393,
+    "creation_date": "2021-03-01T21:30:23.877",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "TypeError: Cannot read property of 'channel_id' of null | Discord.js Webhook error",
+    "tags": [
+      "javascript",
+      "discord.js"
+    ],
+    "user_id": 15033012,
+    "creation_date": "2021-03-01T21:38:13.760",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "count contiguous NaN values by unique values",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "user_id": 13039962,
+    "creation_date": "2021-03-01T21:42:09.580",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Calling a function that decodes in base64 in bash",
+    "tags": [
+      "linux",
+      "bash",
+      "file",
+      "base64"
+    ],
+    "user_id": 10154303,
+    "creation_date": "2021-03-01T21:50:04.750",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "run fail2ban in kubernetes?",
+    "tags": [
+      "kubernetes",
+      "kubernetes-ingress",
+      "fail2ban"
+    ],
+    "user_id": 11908728,
+    "creation_date": "2021-03-01T21:50:22.707",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Adding list of list contents to produce single list",
+    "tags": [
+      "list",
+      "haskell",
+      "anonymous-function"
+    ],
+    "user_id": 2394634,
+    "creation_date": "2021-03-01T21:54:33.080",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Can I write a method body without curly braces {}?",
+    "tags": [
+      "java",
+      "methods",
+      "curly-braces"
+    ],
+    "user_id": 15231914,
+    "creation_date": "2021-03-01T21:54:37.790",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "kubernetes connect multiple storageClasses",
+    "tags": [
+      "kubernetes",
+      "storage"
+    ],
+    "user_id": 11908728,
+    "creation_date": "2021-03-01T21:55:15.023",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Permutations and 2d arrays",
+    "tags": [
+      "arrays",
+      "c"
+    ],
+    "user_id": 15217211,
+    "creation_date": "2021-03-01T21:55:32.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "mediaRecorder : what mime type to use to make it run on Safari, Chrome and Firefox?",
+    "tags": [
+      "safari",
+      "html5-video",
+      "web-mediarecorder"
+    ],
+    "user_id": 300675,
+    "creation_date": "2021-03-01T22:07:19.297",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Building Unicode scalar String in Swift",
+    "tags": [
+      "swift"
+    ],
+    "user_id": 13899957,
+    "creation_date": "2021-03-01T22:08:14.500",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "fgetcsv(), delimiter is not being recognised",
+    "tags": [
+      "php",
+      "fgetcsv"
+    ],
+    "user_id": 15302908,
+    "creation_date": "2021-03-01T22:09:25.880",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How do I fetch a response and then perform array shuffle on it?",
+    "tags": [
+      "javascript",
+      "arrays",
+      "promise",
+      "response",
+      "shuffle"
+    ],
+    "user_id": 13895633,
+    "creation_date": "2021-03-01T22:08:43.673",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "WSO2IS - deployment.toml - Invalid escape sequence",
+    "tags": [
+      "wso2",
+      "wso2-identity-server"
+    ],
+    "user_id": 8405699,
+    "creation_date": "2021-03-01T22:10:37.097",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can i solve : java.sql.SQLException: No suitable driver found for jdbc:mysql//localhost?",
+    "tags": [
+      "java",
+      "mysql",
+      "eclipse",
+      "jdbc",
+      "mysql-workbench"
+    ],
+    "user_id": 10985823,
+    "creation_date": "2021-03-01T22:13:11.087",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Getting a \"Use of undeclared identifier\" error",
+    "tags": [
+      "c++"
+    ],
+    "user_id": 15271447,
+    "creation_date": "2021-03-01T22:15:00.987",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "is it possible for a Pandas dataframe to have blanks for missing values instead of NaN or 0?",
+    "tags": [
+      "python-3.x",
+      "excel",
+      "pandas"
+    ],
+    "user_id": 7124155,
+    "creation_date": "2021-03-01T22:20:18.120",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Two-point Euclidean distance from csv file",
+    "tags": [
+      "python",
+      "pandas",
+      "dataframe"
+    ],
+    "user_id": 14542221,
+    "creation_date": "2021-03-01T22:21:04.093",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Stop autoplay to next slide on carousel embed videos",
+    "tags": [
+      "javascript",
+      "css",
+      "video",
+      "carousel"
+    ],
+    "user_id": 5116082,
+    "creation_date": "2021-03-01T22:20:27.337",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "React Redux not updating state despite login working fine",
+    "tags": [
+      "reactjs",
+      "redux",
+      "react-redux"
+    ],
+    "user_id": 8803831,
+    "creation_date": "2021-03-01T22:24:45.820",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "next JS apollo Link change clears query, have to refresh page for query to run",
+    "tags": [
+      "reactjs",
+      "graphql",
+      "next.js",
+      "apollo"
+    ],
+    "user_id": 2949184,
+    "creation_date": "2021-03-01T22:24:21.727",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "WSO2IS 5.10.0 - Missing user store properties in deployment.toml",
+    "tags": [
+      "wso2",
+      "wso2-identity-server"
+    ],
+    "user_id": 8405699,
+    "creation_date": "2021-03-01T22:29:01.170",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Problem with Update in CRUD during unit tests because of Bcrypt encryption",
+    "tags": [
+      "junit",
+      "spring-security",
+      "spring-data-jpa"
+    ],
+    "user_id": 11548777,
+    "creation_date": "2021-03-01T22:29:15.987",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Trouble coming up with a unique selector in CSS",
+    "tags": [
+      "css"
+    ],
+    "user_id": 4621507,
+    "creation_date": "2021-03-01T22:30:22.240",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "knockout.js in MVC - not working binding in html table",
+    "tags": [
+      "knockout.js",
+      "knockout-mvc"
+    ],
+    "user_id": 5383872,
+    "creation_date": "2021-03-01T22:32:13.507",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Vue: Do watchers on deep nested objects log oldVal and newVal?",
+    "tags": [
+      "vue.js",
+      "vuejs2"
+    ],
+    "user_id": 13771720,
+    "creation_date": "2021-03-01T22:33:50.503",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Kotlin - Return Type For Generic Inheritance",
+    "tags": [
+      "kotlin",
+      "generics",
+      "inheritance",
+      "gson"
+    ],
+    "user_id": 14934288,
+    "creation_date": "2021-03-01T22:42:50.643",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Ajax is not calling php file",
+    "tags": [
+      "javascript",
+      "php",
+      "ajax"
+    ],
+    "user_id": 15307576,
+    "creation_date": "2021-03-01T22:46:09.177",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How can I find out the address space of the BIOS chip?",
+    "tags": [
+      "memory",
+      "memory-address",
+      "bios",
+      "pch",
+      "chipset"
+    ],
+    "user_id": 14099231,
+    "creation_date": "2021-03-01T22:55:57.160",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "How to manipulate button position properties?",
+    "tags": [
+      "matlab",
+      "button"
+    ],
+    "user_id": 14976970,
+    "creation_date": "2021-03-01T22:56:38.370",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "React App - Why m count down is showing a dot whent the hours are equals to zero? And my minute is not 00 when pass of 59",
+    "tags": [
+      "javascript",
+      "reactjs"
+    ],
+    "user_id": 14072493,
+    "creation_date": "2021-03-01T22:59:29.623",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "NAudio looking for a way to read from a Stream when changing pitch instead of a File",
+    "tags": [
+      "c#",
+      "asp.net-core",
+      "naudio"
+    ],
+    "user_id": 11285069,
+    "creation_date": "2021-03-01T23:03:07.610",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Example of using the ## preprocessor operator",
+    "tags": [
+      "c",
+      "c-preprocessor"
+    ],
+    "user_id": 651174,
+    "creation_date": "2021-03-01T23:04:04.330",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "ggplot2 - how to align geom_dotplot with x-axis labels?",
+    "tags": [
+      "r",
+      "ggplot2"
+    ],
+    "user_id": 15221997,
+    "creation_date": "2021-03-01T23:06:06.453",
+    "content_license": "CC BY-SA 4.0"
+  },
+  {
+    "title": "Combining 3 Tables and Finding the Count for Fruit in SQL",
+    "tags": [
+      "sql",
+      "union",
+      "hue"
+    ],
+    "user_id": 14442258,
+    "creation_date": "2021-03-01T23:07:35.700",
+    "content_license": "CC BY-SA 4.0"
+  }
+]

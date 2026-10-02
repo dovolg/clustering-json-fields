@@ -1,0 +1,8 @@
+.git/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets -- passed in at `docker run` time via --env-file, never baked into the image
+.env
