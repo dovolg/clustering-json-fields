@@ -1,0 +1,17 @@
+# Lint only, and deliberately a narrow rule set: rules that catch real
+# problems (undefined/unused names, mutable-default and except-clause bugs,
+# outdated idioms) rather than style. Import order and dict()-vs-{} are left
+# alone on purpose -- reformatting the repo would rewrite the grouping and
+# alignment that carry its reasoning, for no correctness gain.
+line-length = 120
+extend-exclude = ["notebooks", "venv"]
+
+[lint]
+select = ["E", "F", "B", "UP"]  # pycodestyle, pyflakes, bugbear, pyupgrade
+
+[lint.per-file-ignores]
+# Streamlit scripts: imports follow load_dotenv(), which must run before any
+# module that reads its variables is imported.
+"app.py" = ["E402"]
+"tests/app_harness.py" = ["E402"]
+"tests/conftest.py" = ["E402"]

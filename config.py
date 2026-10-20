@@ -23,10 +23,56 @@ OUTLIER_Z_THRESHOLD = 3.0
 
 # Unlike the two constants above, these two aren't independently validated -- the overall
 # k-search *strategy* is trusted instead, via a test that checks its output against a
-# known-good answer on synthetic data (see tests/test_kmeans_clustering.py). Named here
+# known-good answer on synthetic data (see tests/test_lexical_clustering.py). Named here
 # for readability.
 SCORE_DECAY_STOP_RATIO = 0.8  # abandon a coarse scan once score drops this far below the best found
 COARSE_STEP_THRESHOLD = 100  # only apply that early-stop while still in a coarse (unrefined) scan
+
+
+# --- clustering/semantic.py --------------------------------------------------
+
+# See notebooks/07_semantic_config.ipynb: all-MiniLM-L6-v2 is both faster (~9x) and
+# higher-scoring (by c_v) than all-mpnet-base-v2 once both are measured at the actual
+# n_components being used -- not a cost/quality tradeoff, an easy call.
+SEMANTIC_EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+
+# See notebooks/05_semantic_architecture.ipynb: PCA, not SVD -- centering is the
+# textbook-correct choice for dense sentence embeddings (SVD's centering-avoidance only
+# matters for the lexical path's sparse, non-negative count data).
+#
+# See notebooks/07_semantic_config.ipynb: n_components=20 had the highest c_v in a sweep
+# over 3-50, with a normal, reviewable cluster count -- unlike n_components=3/5, which
+# produced unusually large cluster counts (92, 106) for no quality gain.
+SEMANTIC_N_COMPONENTS = 20
+
+# How many top class-based TF-IDF words represent each cluster when scoring coherence.
+# See notebooks/04_semantic_metric_selection.ipynb: no top_n in 5/10/15/20 gave a
+# consistent improvement over this mid-range default.
+SEMANTIC_COHERENCE_TOP_N = 10
+
+# See notebooks/06_semantic_search_shape.ipynb: c_v's evaluation cost scales worse than
+# linearly with cluster count (confirmed k=50->0.9s, k=200->3.1s), unlike silhouette,
+# which doesn't care about k -- the lexical path's max_k=0.8*n formula would let a
+# semantic search attempt evaluations in the thousands, which is impractical.
+SEMANTIC_MAX_K_CAP = 150
+
+# See notebooks/06_semantic_search_shape.ipynb: lowered from the lexical path's min_k=15,
+# which excludes the entire region (k=5-14) where c_v's real optimum sits on structured
+# data, forcing a worse answer than necessary purely by floor placement.
+SEMANTIC_MIN_K = 8
+
+# Unlike silhouette, c_v can reward clusters shrinking toward singletons (a cluster's own
+# few words trivially "cohere" with themselves). Confirmed on real data at two scales: a
+# 141-title known-structure sample, where c_v climbed from 0.41 at k=5 to 0.95 at k=135
+# and find_best_semantic_k landed on k=139 against a true count of 5; and again in
+# notebooks/08_lexical_vs_semantic_comparison.ipynb's tags sweep at n=418, where c_v rose
+# monotonically from k=5 to k=200 with no interior peak while ARI against the true groups
+# fell from 0.97 to 0.06 over the same range. This floor keeps max_k from reaching that
+# region for small-to-moderate n, where max_k would otherwise equal (or nearly equal) n.
+# For short, repetitive categorical text like tags specifically, the lexical pipeline is
+# the validated choice regardless (notebooks/08) -- this floor's job is protecting
+# free-text clustering at moderate n, not making c_v behave well on tags.
+SEMANTIC_MIN_AVG_CLUSTER_SIZE = 5
 
 
 # --- clustering/labeling.py --------------------------------------------------

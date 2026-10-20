@@ -56,6 +56,22 @@ def test_invalid_join_field_shows_error():
     assert at.button[0].disabled is True
 
 
+def test_valid_join_field_with_invalid_field_shows_error_instead_of_crashing():
+    # Regression test: a valid join field was aggregated by immediately,
+    # without checking that the field being clustered exists -- so filling
+    # the join field first (or at all, before a valid field name) reached
+    # aggregate_by_join_field with a missing column and raised an uncaught
+    # KeyError, crashing the script run instead of showing the field error
+    # the app already renders.
+    at = make_app()
+    at.run()
+    at.text_input(key="join_field").set_value("user_id").run()
+
+    assert len(at.exception) == 0
+    assert len(at.error) == 1  # the field error only -- user_id is itself valid
+    assert at.button[0].disabled is True
+
+
 def test_full_pipeline_without_join_field():
     at = make_app()
     at.run()
@@ -81,6 +97,34 @@ def test_full_pipeline_with_join_field_aggregates_by_group():
     # rows across clusters, since the number of *clusters* found depends on
     # k-search, not directly on the aggregation step).
     assert sum(len(c["data"]) for c in at.session_state.cluster_stats.values()) == 3
+
+
+def test_full_pipeline_semantic_mode():
+    # Longer timeouts than the lexical tests: embedding real text with
+    # SentenceTransformer is slow relative to CountVectorizer+SVD.
+    at = make_app()
+    at.run(timeout=30)
+    at.text_input(key="field_name").set_value("tags").run(timeout=30)
+    at.radio(key="mode").set_value("Semantic").run(timeout=30)
+    at.button[0].click().run(timeout=60)
+
+    assert len(at.exception) == 0
+    assert at.session_state.cluster_stats is not None
+    assert at.session_state.quality_key == "c_v"
+    # Semantic mode's quality key should actually be present on every
+    # cluster entry, not silently defaulting to the lexical one.
+    assert all("c_v" in entry for entry in at.session_state.cluster_stats.values())
+    assert all("silhouette" not in entry for entry in at.session_state.cluster_stats.values())
+    assert sum(len(c["data"]) for c in _download_payload(at)) == len(SAMPLE_DATA)
+
+
+def test_semantic_mode_hides_lexical_preprocessing_checkboxes():
+    at = make_app()
+    at.run(timeout=30)
+    at.radio(key="mode").set_value("Semantic").run(timeout=30)
+
+    with pytest.raises(KeyError):
+        at.checkbox(key="lowercase")
 
 
 def test_checkbox_toggle_clears_cached_results():
@@ -111,11 +155,59 @@ def test_download_output_is_1_indexed_and_well_shaped():
     assert len(records) > 0
     for record in records:
         assert set(record.keys()) == {"cluster", "size", "silhouette", "outliers", "data"}
-        assert record["cluster"] >= 1  # regression test: used to be 0-indexed, inconsistent with the UI's "Cluster N" display
+        # regression test: used to be 0-indexed, inconsistent with the UI's "Cluster N" display
+        assert record["cluster"] >= 1
         for row in record["data"]:
             assert "distance_to_centroid" in row
             assert "outlier_z_score" in row
             assert "is_outlier" in row
+
+
+def test_non_text_field_shows_error_instead_of_crashing():
+    # Regression test: the field input accepts any column, but both backends
+    # assume text -- a numeric field (e.g. the user_id in this app's own
+    # sample data) used to reach CountVectorizer/SentenceTransformer and fail
+    # with a raw TypeError, crashing the script run.
+    at = make_app()
+    at.run()
+    at.text_input(key="field_name").set_value("user_id").run()
+    at.button[0].click().run()
+
+    assert len(at.exception) == 0
+    assert len(at.error) == 1
+    assert "int" in at.error[0].value
+    assert at.session_state.cluster_stats is None
+
+
+def test_rows_with_a_missing_field_value_are_skipped_with_a_warning():
+    # Regression test: a null in the clustered field used to reach the
+    # vectorizer as None and crash. Rows are dropped from the DataFrame (not
+    # inside prepare_text) so the surviving rows still line up with their
+    # vectors -- checked here via the member-row total.
+    data = SAMPLE_DATA + [{"tags": None, "user_id": 4}]
+    at = make_app(data=data)
+    at.run()
+    at.text_input(key="field_name").set_value("tags").run()
+    at.button[0].click().run()
+
+    assert len(at.exception) == 0
+    assert len(at.warning) == 1
+    assert "1 row" in at.warning[0].value
+    assert sum(len(c["data"]) for c in _download_payload(at)) == len(SAMPLE_DATA)
+
+
+def test_blank_field_values_show_error_instead_of_crashing():
+    # Regression test: an all-blank field made CountVectorizer raise "empty
+    # vocabulary" before the vocabulary-size check could report it cleanly.
+    blank_data = [{"tags": ""} for _ in range(4)]
+    at = make_app(data=blank_data)
+    at.run()
+    at.text_input(key="field_name").set_value("tags").run()
+    at.button[0].click().run()
+
+    assert len(at.exception) == 0
+    assert len(at.error) == 1
+    assert at.session_state.cluster_stats is None
 
 
 def test_too_small_vocabulary_shows_error_instead_of_crashing():
